@@ -1,0 +1,23 @@
+body{
+    background: lightblue;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#paragrafo_azul{
+    color: blue;
+}
+
+.paragrafo_vermelho{
+    color: red;
+}
+
